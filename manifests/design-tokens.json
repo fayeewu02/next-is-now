@@ -1,0 +1,24 @@
+{
+  "note": "CSS custom-property declarations only; scoped tokens are not all global. Consult ordered canonical stylesheet and screenshot metrics.",
+  "declarationsLastSeen": {
+    "--red": "#ff2442",
+    "--ink": "#202124",
+    "--paper": "#fff8cf",
+    "--yellow": "#ffe45c",
+    "--cyan": "#22b8be",
+    "--blue": "#bfefff",
+    "--pink": "#ffd6de",
+    "--muted": "#6d717b",
+    "--line": "#e5e7ec",
+    "--radius": "24px"
+  },
+  "categoryColors": [
+    "#bfefff",
+    "#d7edaa",
+    "#ffe45c",
+    "#ffd6de",
+    "#fff0b6",
+    "#c7efe4"
+  ],
+  "canonical": "dist/styles.css"
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "authority": "dist/app.js",
+  "routesAreInMemoryNotURLPaths": true,
+  "initial": "home",
+  "transitions": [
+    {"from":"home","action":"target","to":"config","effect":"mode=target; choose time/category"},
+    {"from":"home","action":"random","to":"spinning","effect":"mode=random; defaults 30 minutes"},
+    {"from":"config","action":"draw","to":"spinning","guard":"target category required; nonempty custom goal if custom"},
+    {"from":"spinning","action":"matched","to":"result","effect":"reset missing/demo plan; mark seen"},
+    {"from":"config/result","action":"no candidates","to":"empty","effect":"no-match or exhausted"},
+    {"from":"result","action":"missing essential material","to":"result","effect":"block start; local simulated alternatives"},
+    {"from":"result","action":"accept demo plan","to":"result","guard":"explicit all-new-material/effect confirmation","effect":"update title/description/materials/steps/time; recheck budget"},
+    {"from":"result","action":"start","to":"start","guard":"ready && withinBudget && notSaving","effect":"persist one pending entry snapshot"},
+    {"from":"start","action":"complete-entry","to":"start+completion-dialog","guard":"notCompleted && notSaving","effect":"persist completedAt once; disable completion; show record"},
+    {"from":"start+completion-dialog","action":"record","to":"editor","effect":"edit clone; completion date unchanged"},
+    {"from":"start+completion-dialog","action":"later/X/Escape","to":"start","effect":"keep completion and record CTA"},
+    {"from":"start/diary","action":"edit-entry","to":"editor","effect":"only if pending, auto-complete this entry with method=record"},
+    {"from":"editor","action":"save","to":"diary","guard":"<=300 Unicode characters && notUploading && notSaving","effect":"persist text/photos"},
+    {"from":"editor","action":"later/navigation","to":"previous start or diary","guard":"dirty draft requires leave confirmation","effect":"completion remains even if unsaved draft discarded"},
+    {"from":"any","action":"diary","to":"diary","effect":"default calendar + timeline; pending draft guarded"}
+  ],
+  "conceptualDialogs": ["source","demo-post","completion","unsaved-draft","delete","about"],
+  "calendar": {"timeZone":"Asia/Shanghai","weekStarts":"Monday","eventTime":"completedAt if completed else createdAt","sameDayMarker":"one pure red flower regardless of number","photoRule":"uploaded first photo only; otherwise pure text"},
+  "storage": {"indexedDB":"next-is-now-demo","version":1,"store":"entries","keyPath":"id","localStorage":"next-now-source-links","cloudSync":false},
+  "simulation": {"liveSearch":false,"alternatives":8,"confirmationRequired":true,"noResultIfAnyEssentialMissingUncovered":true},
+  "limits": {"photos":5,"photoInputBytes":20971520,"longestPhotoEdge":1200,"photoFormat":"image/webp","photoQuality":0.85,"unicodeCharacters":300,"customGoalInputMaxlength":40}
+}

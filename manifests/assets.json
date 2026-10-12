@@ -1,0 +1,788 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-12T03:46:03.904Z",
+  "sourceOfTruth": "dist files; exports are derivatives for porting, not replacements required by runtime",
+  "assets": [
+    {
+      "id": "saved-01",
+      "type": "provided-cover",
+      "title": "星岛鸟｜三寸拍立得拼豆相框（附镜面）",
+      "category": "手工",
+      "author": "MAGICMe",
+      "original": "dist/assets/saved-01.jpg",
+      "originalSize": {
+        "width": 585,
+        "height": 1023
+      },
+      "crop": {
+        "left": 2,
+        "top": 2,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-01-cover.png",
+      "minutes": 120,
+      "durationLabel": "约 60–120 分钟 · 估算",
+      "timeBasis": "按相框尺寸、配色和熨烫工序估算完整制作时间；不是原视频时长。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-02",
+      "type": "provided-cover",
+      "title": "当我在拼豆中间留个口🤨",
+      "category": "手工",
+      "author": "今天大芒果了",
+      "original": "dist/assets/saved-02.jpg",
+      "originalSize": {
+        "width": 593,
+        "height": 973
+      },
+      "crop": {
+        "left": 6,
+        "top": 7,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-02-cover.png",
+      "minutes": 45,
+      "durationLabel": "约 30–45 分钟 · 估算",
+      "timeBasis": "按单个纽扣套估算，不代表整件衣服的全部图案。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-03",
+      "type": "provided-cover",
+      "title": "拼豆图纸合集｜🔔圣诞节 5",
+      "category": "手工",
+      "author": "炖鸡蛋大王",
+      "original": "dist/assets/saved-03.jpg",
+      "originalSize": {
+        "width": 607,
+        "height": 991
+      },
+      "crop": {
+        "left": 11,
+        "top": 8,
+        "width": 585,
+        "height": 778
+      },
+      "cropped": "assets/covers/saved-03-cover.png",
+      "minutes": 90,
+      "durationLabel": "约 45–90 分钟 · 估算",
+      "timeBasis": "只对应单个较小图案，不是完成截图中的整套作品。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-04",
+      "type": "provided-cover",
+      "title": "不织布｜超可爱的可上手手表",
+      "category": "手工",
+      "author": "Kuiloxon",
+      "original": "dist/assets/saved-04.jpg",
+      "originalSize": {
+        "width": 609,
+        "height": 1053
+      },
+      "crop": {
+        "left": 15,
+        "top": 17,
+        "width": 581,
+        "height": 774
+      },
+      "cropped": "assets/covers/saved-04-cover.png",
+      "minutes": 120,
+      "durationLabel": "约 60–120 分钟 · 估算",
+      "timeBasis": "按裁剪、缝制和固定工序估算；截图的原标题括号部分不完整。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-05",
+      "type": "provided-cover",
+      "title": "心情不美丽 那就来做手工叭",
+      "category": "手工",
+      "author": "HH",
+      "original": "dist/assets/saved-05.jpg",
+      "originalSize": {
+        "width": 609,
+        "height": 779
+      },
+      "crop": {
+        "left": 15,
+        "top": 10,
+        "width": 581,
+        "height": 581
+      },
+      "cropped": "assets/covers/saved-05-cover.png",
+      "minutes": 180,
+      "durationLabel": "约 90–180 分钟 · 估算",
+      "timeBasis": "封面含较多裁剪和装饰部件，按新手完整制作估算。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-06",
+      "type": "provided-cover",
+      "title": "教程，第一次做，新手友好！",
+      "category": "手工",
+      "author": "张翠莲",
+      "original": "dist/assets/saved-06.jpg",
+      "originalSize": {
+        "width": 607,
+        "height": 1049
+      },
+      "crop": {
+        "left": 13,
+        "top": 9,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-06-cover.png",
+      "minutes": 20,
+      "durationLabel": "动手约 15–20 分钟 · 晾干另计",
+      "timeBasis": "封面标注「10 分钟做一块」；加准备时间估为 15–20 分钟。晾干时长未提供，不承诺当场可用。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-07",
+      "type": "provided-cover",
+      "title": "今年让我印象最深的 5 期视频播客",
+      "category": "播客",
+      "author": "张作啦",
+      "original": "dist/assets/saved-07.jpg",
+      "originalSize": {
+        "width": 609,
+        "height": 1033
+      },
+      "crop": {
+        "left": 15,
+        "top": 8,
+        "width": 581,
+        "height": 776
+      },
+      "cropped": "assets/covers/saved-07-cover.png",
+      "minutes": 15,
+      "durationLabel": "试听约 10–15 分钟 · 估算",
+      "timeBasis": "截图是 5 期合集，未给完整节目时长；这里估算选节目和试听片段的时间。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-08",
+      "type": "provided-cover",
+      "title": "写得太艺术了。",
+      "category": "阅读",
+      "author": "thisismetrying",
+      "original": "dist/assets/saved-08.jpg",
+      "originalSize": {
+        "width": 615,
+        "height": 973
+      },
+      "crop": {
+        "left": 17,
+        "top": 0,
+        "width": 581,
+        "height": 763
+      },
+      "cropped": "assets/covers/saved-08-cover.png",
+      "minutes": 15,
+      "durationLabel": "阅读约 10–15 分钟 · 估算",
+      "timeBasis": "封面提及史铁生《好运设计》；只估算短段阅读，不是整本书时长。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-09",
+      "type": "provided-cover",
+      "title": "INTJ 通勤私藏🎧6 档反复回听的高质量播客",
+      "category": "播客",
+      "author": "虞兮西",
+      "original": "dist/assets/saved-09.jpg",
+      "originalSize": {
+        "width": 612,
+        "height": 1036
+      },
+      "crop": {
+        "left": 17,
+        "top": 13,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-09-cover.png",
+      "minutes": 15,
+      "durationLabel": "试听约 10–15 分钟 · 估算",
+      "timeBasis": "6 档节目清单不等于一段固定时长音频；未把全清单或完整一期压缩成 15 分钟。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-10",
+      "type": "provided-cover",
+      "title": "复刻本年度最好吃的焙茶草莓布丁杯🍓",
+      "category": "美食",
+      "author": "小胖叽叽",
+      "original": "dist/assets/saved-10.jpg",
+      "originalSize": {
+        "width": 612,
+        "height": 1036
+      },
+      "crop": {
+        "left": 17,
+        "top": 13,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-10-cover.png",
+      "minutes": 180,
+      "durationLabel": "约 2–3 小时 · 含等待，估算",
+      "timeBasis": "封面未提供做法或时间；按制作、冷却或凝固等待保守估算，具体以原配方为准。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-11",
+      "type": "provided-cover",
+      "title": "🍵糯叽叽抹茶草莓大福🍓口感太绝了❗",
+      "category": "美食",
+      "author": "YYzing_",
+      "original": "dist/assets/saved-11.jpg",
+      "originalSize": {
+        "width": 610,
+        "height": 1042
+      },
+      "crop": {
+        "left": 15,
+        "top": 14,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-11-cover.png",
+      "minutes": 90,
+      "durationLabel": "约 45–90 分钟 · 估算",
+      "timeBasis": "按准备、加热、放凉和包馅估算；未获确切配方或操作时长。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-12",
+      "type": "provided-cover",
+      "title": "🎃万圣节贝果",
+      "category": "美食",
+      "author": "豆豆很贪吃",
+      "original": "dist/assets/saved-12.jpg",
+      "originalSize": {
+        "width": 609,
+        "height": 982
+      },
+      "crop": {
+        "left": 14,
+        "top": 16,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-12-cover.png",
+      "minutes": 240,
+      "durationLabel": "约 2.5–4 小时 · 含等待，估算",
+      "timeBasis": "按和面、醒发、整形、烘焙及放凉估算；不能按纯动手时间匹配。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-13",
+      "type": "provided-cover",
+      "title": "蹲到了！！千金感贴头皮双麻花教程",
+      "category": "生活技能",
+      "author": "汤几一",
+      "original": "dist/assets/saved-13.jpg",
+      "originalSize": {
+        "width": 606,
+        "height": 1046
+      },
+      "crop": {
+        "left": 11,
+        "top": 15,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-13-cover.png",
+      "minutes": 20,
+      "durationLabel": "约 10–20 分钟 · 估算",
+      "timeBasis": "按查看示范和尝试一次编发估算，不代表原视频时长。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-14",
+      "type": "provided-cover",
+      "title": "适合女生的几个背部训练动作",
+      "category": "运动",
+      "author": "七七慢慢练🖤",
+      "original": "dist/assets/saved-14.jpg",
+      "originalSize": {
+        "width": 607,
+        "height": 1053
+      },
+      "crop": {
+        "left": 13,
+        "top": 16,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-14-cover.png",
+      "minutes": 45,
+      "durationLabel": "约 30–45 分钟 · 估算",
+      "timeBasis": "封面没有具体组数或时长；按准备和一次训练作估算，不作训练处方。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-15",
+      "type": "provided-cover",
+      "title": "10 分钟详细跟练改善版｜跷二郎腿必练",
+      "category": "运动",
+      "author": "shuya 瑜伽",
+      "original": "dist/assets/saved-15.jpg",
+      "originalSize": {
+        "width": 606,
+        "height": 1046
+      },
+      "crop": {
+        "left": 15,
+        "top": 10,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-15-cover.png",
+      "minutes": 15,
+      "durationLabel": "约 15 分钟 · 含 10 分钟跟练",
+      "timeBasis": "标题标注 10 分钟，另预留约 5 分钟准备。保留原标题，不据此保证改善效果。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-16",
+      "type": "provided-cover",
+      "title": "🔥干货—篆书控笔 视频跟练版",
+      "category": "手工",
+      "author": "苗墨",
+      "original": "dist/assets/saved-16.jpg",
+      "originalSize": {
+        "width": 608,
+        "height": 1058
+      },
+      "crop": {
+        "left": 15,
+        "top": 22,
+        "width": 581,
+        "height": 774
+      },
+      "cropped": "assets/covers/saved-16-cover.png",
+      "minutes": 15,
+      "durationLabel": "练习约 10–15 分钟 · 估算",
+      "timeBasis": "截图未给视频全长；这里对应一个基础控笔项目的短时练习。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-17",
+      "type": "provided-cover",
+      "title": "零基础如何入门小楷？（全干货）",
+      "category": "手工",
+      "author": "半颗椰…",
+      "original": "dist/assets/saved-17.jpg",
+      "originalSize": {
+        "width": 606,
+        "height": 1057
+      },
+      "crop": {
+        "left": 11,
+        "top": 15,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-17-cover.png",
+      "minutes": 15,
+      "durationLabel": "入门体验约 15 分钟 · 估算",
+      "timeBasis": "封面标注三分钟入门视频；加上准备和短时试写，估为 15 分钟。作者昵称在截图中不完整。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-18",
+      "type": "provided-cover",
+      "title": "这 6 个 skill 的美商恐怕在我之上🔥（附提示词）",
+      "category": "生活技能",
+      "author": "Reese 小姐爱…",
+      "original": "dist/assets/saved-18.jpg",
+      "originalSize": {
+        "width": 603,
+        "height": 1036
+      },
+      "crop": {
+        "left": 9,
+        "top": 12,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-18-cover.png",
+      "minutes": 15,
+      "durationLabel": "试用约 10–15 分钟 · 估算",
+      "timeBasis": "按阅读一种玩法并做一次简单试用估算；不把截图里的说明当作安装指令。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-19",
+      "type": "provided-cover",
+      "title": "直接封神！！这个皮蛋肉酱拌面做法太绝了！！",
+      "category": "美食",
+      "author": "你看起来很好吃",
+      "original": "dist/assets/saved-19.jpg",
+      "originalSize": {
+        "width": 610,
+        "height": 1049
+      },
+      "crop": {
+        "left": 15,
+        "top": 11,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-19-cover.png",
+      "minutes": 30,
+      "durationLabel": "约 20–30 分钟 · 估算",
+      "timeBasis": "按准备、熟制和拌面估算，封面未提供确切耗时和完整配方。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-20",
+      "type": "provided-cover",
+      "title": "无需工具的水果绵绵冰",
+      "category": "美食",
+      "author": "胡仔一人食",
+      "original": "dist/assets/saved-20.jpg",
+      "originalSize": {
+        "width": 607,
+        "height": 1004
+      },
+      "crop": {
+        "left": 15,
+        "top": 23,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-20-cover.png",
+      "minutes": 380,
+      "durationLabel": "约 4–6.5 小时 · 含冷冻，估算",
+      "timeBasis": "动手约 10–20 分钟，冷冻按数小时作保守估算；标题「无需工具」不等于无需冷冻设备。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "saved-21",
+      "type": "provided-cover",
+      "title": "好吃哭🥺爆浆芝士虾滑培根卷🍤外焦里嫩🥓",
+      "category": "美食",
+      "author": "DODO 来了",
+      "original": "dist/assets/saved-21.jpg",
+      "originalSize": {
+        "width": 610,
+        "height": 1058
+      },
+      "crop": {
+        "left": 15,
+        "top": 14,
+        "width": 581,
+        "height": 775
+      },
+      "cropped": "assets/covers/saved-21-cover.png",
+      "minutes": 45,
+      "durationLabel": "约 30–45 分钟 · 估算",
+      "timeBasis": "按准备、包卷和熟制估算，不据封面编造烹饪温度或配方比例。",
+      "sourceUrl": null,
+      "rights": "User-provided reference; original creators retain rights; no commercial reuse authorization inferred."
+    },
+    {
+      "id": "gacha-machine",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/gacha-machine.svg",
+      "pngs": [
+        "assets/illustrations/png/gacha-machine@2x.png",
+        "assets/illustrations/png/gacha-machine@3x.png"
+      ],
+      "size": {
+        "width": 240,
+        "height": 276
+      },
+      "color": "#202124",
+      "note": "SVG containing text needs the documented system font; PNG reference freezes this machine rendering."
+    },
+    {
+      "id": "completion-flower",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/completion-flower.svg",
+      "pngs": [
+        "assets/icons/png/completion-flower@2x.png",
+        "assets/icons/png/completion-flower@3x.png"
+      ],
+      "size": {
+        "width": 48,
+        "height": 48
+      },
+      "color": "#ff2442",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "gacha-opened-capsule",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/gacha-opened-capsule.svg",
+      "pngs": [
+        "assets/illustrations/png/gacha-opened-capsule@2x.png",
+        "assets/illustrations/png/gacha-opened-capsule@3x.png"
+      ],
+      "size": {
+        "width": 132,
+        "height": 78
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "category-craft",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/category-craft.svg",
+      "pngs": [
+        "assets/illustrations/png/category-craft@2x.png",
+        "assets/illustrations/png/category-craft@3x.png"
+      ],
+      "size": {
+        "width": 410,
+        "height": 290
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "category-reading",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/category-reading.svg",
+      "pngs": [
+        "assets/illustrations/png/category-reading@2x.png",
+        "assets/illustrations/png/category-reading@3x.png"
+      ],
+      "size": {
+        "width": 410,
+        "height": 290
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "category-podcast",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/category-podcast.svg",
+      "pngs": [
+        "assets/illustrations/png/category-podcast@2x.png",
+        "assets/illustrations/png/category-podcast@3x.png"
+      ],
+      "size": {
+        "width": 410,
+        "height": 290
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "category-sport",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/category-sport.svg",
+      "pngs": [
+        "assets/illustrations/png/category-sport@2x.png",
+        "assets/illustrations/png/category-sport@3x.png"
+      ],
+      "size": {
+        "width": 410,
+        "height": 290
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "category-food",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/category-food.svg",
+      "pngs": [
+        "assets/illustrations/png/category-food@2x.png",
+        "assets/illustrations/png/category-food@3x.png"
+      ],
+      "size": {
+        "width": 410,
+        "height": 290
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "category-creation",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/illustrations/svg/category-creation.svg",
+      "pngs": [
+        "assets/illustrations/png/category-creation@2x.png",
+        "assets/illustrations/png/category-creation@3x.png"
+      ],
+      "size": {
+        "width": 410,
+        "height": 290
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-calendar",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-calendar.svg",
+      "pngs": [
+        "assets/icons/png/ui-calendar@2x.png",
+        "assets/icons/png/ui-calendar@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-list",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-list.svg",
+      "pngs": [
+        "assets/icons/png/ui-list@2x.png",
+        "assets/icons/png/ui-list@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-left",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-left.svg",
+      "pngs": [
+        "assets/icons/png/ui-left@2x.png",
+        "assets/icons/png/ui-left@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-right",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-right.svg",
+      "pngs": [
+        "assets/icons/png/ui-right@2x.png",
+        "assets/icons/png/ui-right@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-arrow",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-arrow.svg",
+      "pngs": [
+        "assets/icons/png/ui-arrow@2x.png",
+        "assets/icons/png/ui-arrow@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-check",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-check.svg",
+      "pngs": [
+        "assets/icons/png/ui-check@2x.png",
+        "assets/icons/png/ui-check@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-plus",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-plus.svg",
+      "pngs": [
+        "assets/icons/png/ui-plus@2x.png",
+        "assets/icons/png/ui-plus@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "ui-external",
+      "type": "code-native-vector",
+      "canonical": "dist/app.js",
+      "svg": "assets/icons/svg/ui-external.svg",
+      "pngs": [
+        "assets/icons/png/ui-external@2x.png",
+        "assets/icons/png/ui-external@3x.png"
+      ],
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "color": "#202124",
+      "note": "SVG currentColor may be changed when used inline."
+    },
+    {
+      "id": "favicon",
+      "type": "code-native-vector",
+      "canonical": "dist/icon.svg"
+    }
+  ]
+}

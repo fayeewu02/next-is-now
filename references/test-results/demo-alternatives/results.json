@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "missing food material produces two clearly mocked posts; no switch before explicit material/effect confirmation; acceptance updates title/materials/time/steps; chosen fictional source and original inspiration persist through diary and reload",
+    "craft example requires new paper/glue and acknowledges changed result; no reintroduced optional material; restore/rechoose and multiple-missing empty state work; changed materials invalidate pending mock search; longer alternatives remain blocked until time is extended"
+  ],
+  "browserErrors": [],
+  "externalRequests": [],
+  "mode": "Explicitly fictional preset examples. No live search API or backend added.",
+  "fixtures": "All tests in an isolated browser, never the real user profile."
+}

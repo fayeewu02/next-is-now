@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "smoke": [
+    {
+      "width": 320,
+      "fits": true,
+      "fontLoaded": true
+    },
+    {
+      "width": 390,
+      "fits": true,
+      "fontLoaded": true
+    },
+    {
+      "width": 430,
+      "fits": true,
+      "fontLoaded": true
+    },
+    {
+      "width": 1440,
+      "fits": true,
+      "fontLoaded": true
+    }
+  ],
+  "browserErrors": [],
+  "scope": "Font file loads, homepage widths and one reading/checkin/record/journal path. Not full six-suite or cross-platform pixel verification."
+}

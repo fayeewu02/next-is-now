@@ -1,0 +1,2 @@
+# Keep exact bytes so the reproduction checksum manifest works across platforms.
+* -text

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "original": {
+    "stack": [
+      "Microsoft YaHei",
+      "PingFang SC",
+      "system-ui",
+      "sans-serif"
+    ],
+    "systemFontsBundled": false,
+    "observations": "references/font-rendering.json"
+  },
+  "optional": [
+    {
+      "family": "Noto Sans SC",
+      "cssAlias": "NextNow Noto SC",
+      "file": "dist/fonts/NotoSansSC-VF.ttf",
+      "bytes": 17773132,
+      "sha256": "d68bafcb48a2707749396aa12bbbd833cb70401f3a9a689fd2902c7e0d295964",
+      "weights": "100-900 variable",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "dist/fonts/OFL.txt",
+      "repository": "https://github.com/notofonts/noto-cjk",
+      "commit": "f8d157532fbfaeda587e826d4cd5b21a49186f7c",
+      "download": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/Variable/TTF/Subset/NotoSansSC-VF.ttf",
+      "modified": false,
+      "entry": "dist/portable-fonts.html",
+      "pixelIdenticalToOriginal": false
+    }
+  ]
+}

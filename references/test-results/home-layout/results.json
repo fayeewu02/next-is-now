@@ -1,0 +1,780 @@
+{
+  "passed": true,
+  "checks": [
+    "larger centered staggered title and enlarged machine",
+    "compact cards; icon and title on one row at all widths",
+    "320/360/390/430/768/1440 layouts fit with navigation unobstructed",
+    "goal, random and diary navigation still work"
+  ],
+  "results": [
+    {
+      "viewport": 320,
+      "overflow": false,
+      "titleSize": 44,
+      "title": {
+        "x": 29.515625,
+        "y": 79,
+        "width": 260.96875,
+        "height": 115.96875,
+        "bottom": 194.96875
+      },
+      "machine": {
+        "x": 45,
+        "y": 230.0625,
+        "width": 230,
+        "height": 264.5,
+        "bottom": 494.5625
+      },
+      "titleLines": [
+        {
+          "x": 14.789152145385742,
+          "y": 104.8508529663086,
+          "width": 262.42169189453125,
+          "height": 55.26703643798828,
+          "bottom": 160.11788940429688
+        },
+        {
+          "x": 43.24412536621094,
+          "y": 159.30340576171875,
+          "width": 261.51177978515625,
+          "height": 37.9400634765625,
+          "bottom": 197.24346923828125
+        }
+      ],
+      "nav": {
+        "x": 0,
+        "y": 647,
+        "width": 320,
+        "height": 53,
+        "bottom": 700
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 16,
+            "y": 525.953125,
+            "width": 139,
+            "height": 76,
+            "bottom": 601.953125
+          },
+          "icon": {
+            "x": 27,
+            "y": 540.703125,
+            "width": 26,
+            "height": 26,
+            "bottom": 566.703125
+          },
+          "text": {
+            "x": 59,
+            "y": 543.953125,
+            "width": 58,
+            "height": 19.5,
+            "bottom": 563.453125
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 165,
+            "y": 525.953125,
+            "width": 139,
+            "height": 76,
+            "bottom": 601.953125
+          },
+          "icon": {
+            "x": 176,
+            "y": 540.703125,
+            "width": 26,
+            "height": 26,
+            "bottom": 566.703125
+          },
+          "text": {
+            "x": 208,
+            "y": 543.953125,
+            "width": 58,
+            "height": 19.5,
+            "bottom": 563.453125
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "overflow": false,
+      "titleSize": 47.988,
+      "title": {
+        "x": 37.703125,
+        "y": 110,
+        "width": 284.59375,
+        "height": 123.171875,
+        "bottom": 233.171875
+      },
+      "machine": {
+        "x": 61,
+        "y": 280.265625,
+        "width": 238,
+        "height": 273.6875,
+        "bottom": 553.953125
+      },
+      "titleLines": [
+        {
+          "x": 22.910778045654297,
+          "y": 135.43988037109375,
+          "width": 286.178466796875,
+          "height": 60.2764892578125,
+          "bottom": 195.71636962890625
+        },
+        {
+          "x": 51.407108306884766,
+          "y": 194.28497314453125,
+          "width": 285.185791015625,
+          "height": 41.3675537109375,
+          "bottom": 235.65252685546875
+        }
+      ],
+      "nav": {
+        "x": 0,
+        "y": 727,
+        "width": 360,
+        "height": 53,
+        "bottom": 780
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 16,
+            "y": 621.34375,
+            "width": 159,
+            "height": 76,
+            "bottom": 697.34375
+          },
+          "icon": {
+            "x": 27,
+            "y": 636.09375,
+            "width": 26,
+            "height": 26,
+            "bottom": 662.09375
+          },
+          "text": {
+            "x": 59,
+            "y": 639.34375,
+            "width": 58,
+            "height": 19.5,
+            "bottom": 658.84375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 185,
+            "y": 621.34375,
+            "width": 159,
+            "height": 76,
+            "bottom": 697.34375
+          },
+          "icon": {
+            "x": 196,
+            "y": 636.09375,
+            "width": 26,
+            "height": 26,
+            "bottom": 662.09375
+          },
+          "text": {
+            "x": 228,
+            "y": 639.34375,
+            "width": 58,
+            "height": 19.5,
+            "bottom": 658.84375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    },
+    {
+      "viewport": 390,
+      "overflow": false,
+      "titleSize": 47.97,
+      "title": {
+        "x": 50.71875,
+        "y": 80,
+        "width": 288.546875,
+        "height": 123.671875,
+        "bottom": 203.671875
+      },
+      "machine": {
+        "x": 80,
+        "y": 238.765625,
+        "width": 230,
+        "height": 264.5,
+        "bottom": 503.265625
+      },
+      "titleLines": [
+        {
+          "x": 35.927879333496094,
+          "y": 105.37089538574219,
+          "width": 290.12860107421875,
+          "height": 60.398834228515625,
+          "bottom": 165.7697296142578
+        },
+        {
+          "x": 64.41853332519531,
+          "y": 164.23489379882812,
+          "width": 289.14727783203125,
+          "height": 41.95208740234375,
+          "bottom": 206.18698120117188
+        }
+      ],
+      "nav": {
+        "x": 0,
+        "y": 647,
+        "width": 390,
+        "height": 53,
+        "bottom": 700
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 16,
+            "y": 534.65625,
+            "width": 173,
+            "height": 80,
+            "bottom": 614.65625
+          },
+          "icon": {
+            "x": 29,
+            "y": 549.15625,
+            "width": 29,
+            "height": 29,
+            "bottom": 578.15625
+          },
+          "text": {
+            "x": 65,
+            "y": 553.25,
+            "width": 62,
+            "height": 20.796875,
+            "bottom": 574.046875
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 201,
+            "y": 534.65625,
+            "width": 173,
+            "height": 80,
+            "bottom": 614.65625
+          },
+          "icon": {
+            "x": 214,
+            "y": 549.15625,
+            "width": 29,
+            "height": 29,
+            "bottom": 578.15625
+          },
+          "text": {
+            "x": 250,
+            "y": 553.25,
+            "width": 62,
+            "height": 20.796875,
+            "bottom": 574.046875
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    },
+    {
+      "viewport": 390,
+      "overflow": false,
+      "titleSize": 51.987,
+      "title": {
+        "x": 38.59375,
+        "y": 111,
+        "width": 312.796875,
+        "height": 130.984375,
+        "bottom": 241.984375
+      },
+      "machine": {
+        "x": 64,
+        "y": 289.078125,
+        "width": 262,
+        "height": 301.296875,
+        "bottom": 590.375
+      },
+      "titleLines": [
+        {
+          "x": 23.736648559570312,
+          "y": 135.9490203857422,
+          "width": 314.51104736328125,
+          "height": 65.46133422851562,
+          "bottom": 201.4103546142578
+        },
+        {
+          "x": 52.26838684082031,
+          "y": 199.24227905273438,
+          "width": 313.4476318359375,
+          "height": 45.46858215332031,
+          "bottom": 244.7108612060547
+        }
+      ],
+      "nav": {
+        "x": 0,
+        "y": 791,
+        "width": 390,
+        "height": 53,
+        "bottom": 844
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 16,
+            "y": 657.765625,
+            "width": 173,
+            "height": 80,
+            "bottom": 737.765625
+          },
+          "icon": {
+            "x": 29,
+            "y": 672.265625,
+            "width": 29,
+            "height": 29,
+            "bottom": 701.265625
+          },
+          "text": {
+            "x": 65,
+            "y": 676.359375,
+            "width": 62,
+            "height": 20.796875,
+            "bottom": 697.15625
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 201,
+            "y": 657.765625,
+            "width": 173,
+            "height": 80,
+            "bottom": 737.765625
+          },
+          "icon": {
+            "x": 214,
+            "y": 672.265625,
+            "width": 29,
+            "height": 29,
+            "bottom": 701.265625
+          },
+          "text": {
+            "x": 250,
+            "y": 676.359375,
+            "width": 62,
+            "height": 20.796875,
+            "bottom": 697.15625
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    },
+    {
+      "viewport": 430,
+      "overflow": false,
+      "titleSize": 56,
+      "title": {
+        "x": 46.53125,
+        "y": 111,
+        "width": 336.9375,
+        "height": 138.296875,
+        "bottom": 249.296875
+      },
+      "machine": {
+        "x": 84,
+        "y": 296.390625,
+        "width": 262,
+        "height": 301.296875,
+        "bottom": 597.6875
+      },
+      "titleLines": [
+        {
+          "x": 31.607887268066406,
+          "y": 135.529052734375,
+          "width": 338.78424072265625,
+          "height": 70.52001953125,
+          "bottom": 206.049072265625
+        },
+        {
+          "x": 60.18072509765625,
+          "y": 203.25059509277344,
+          "width": 337.6385498046875,
+          "height": 48.983184814453125,
+          "bottom": 252.23377990722656
+        }
+      ],
+      "nav": {
+        "x": 0,
+        "y": 879,
+        "width": 430,
+        "height": 53,
+        "bottom": 932
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 16,
+            "y": 665.078125,
+            "width": 193,
+            "height": 80,
+            "bottom": 745.078125
+          },
+          "icon": {
+            "x": 29,
+            "y": 679.578125,
+            "width": 29,
+            "height": 29,
+            "bottom": 708.578125
+          },
+          "text": {
+            "x": 65,
+            "y": 683.671875,
+            "width": 62,
+            "height": 20.796875,
+            "bottom": 704.46875
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 221,
+            "y": 665.078125,
+            "width": 193,
+            "height": 80,
+            "bottom": 745.078125
+          },
+          "icon": {
+            "x": 234,
+            "y": 679.578125,
+            "width": 29,
+            "height": 29,
+            "bottom": 708.578125
+          },
+          "text": {
+            "x": 270,
+            "y": 683.671875,
+            "width": 62,
+            "height": 20.796875,
+            "bottom": 704.46875
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "overflow": false,
+      "titleSize": 64,
+      "title": {
+        "x": 185.96875,
+        "y": 143,
+        "width": 396.0625,
+        "height": 162.75,
+        "bottom": 305.75
+      },
+      "machine": {
+        "x": 214,
+        "y": 362.25,
+        "width": 340,
+        "height": 391,
+        "bottom": 753.25
+      },
+      "titleLines": [
+        {
+          "x": 164.91697692871094,
+          "y": 173.99989318847656,
+          "width": 398.166015625,
+          "height": 80.96894836425781,
+          "bottom": 254.96884155273438
+        },
+        {
+          "x": 205.55673217773438,
+          "y": 251.6258544921875,
+          "width": 396.8865051269531,
+          "height": 57.576416015625,
+          "bottom": 309.2022705078125
+        }
+      ],
+      "nav": {
+        "x": 260,
+        "y": 926,
+        "width": 248,
+        "height": 54,
+        "bottom": 980
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 114,
+            "y": 825.25,
+            "width": 262,
+            "height": 86.5,
+            "bottom": 911.75
+          },
+          "icon": {
+            "x": 132,
+            "y": 840.25,
+            "width": 33,
+            "height": 33,
+            "bottom": 873.25
+          },
+          "text": {
+            "x": 174,
+            "y": 845.046875,
+            "width": 70,
+            "height": 23.390625,
+            "bottom": 868.4375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 392,
+            "y": 825.25,
+            "width": 262,
+            "height": 86.5,
+            "bottom": 911.75
+          },
+          "icon": {
+            "x": 410,
+            "y": 840.25,
+            "width": 33,
+            "height": 33,
+            "bottom": 873.25
+          },
+          "text": {
+            "x": 452,
+            "y": 845.046875,
+            "width": 70,
+            "height": 23.390625,
+            "bottom": 868.4375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "overflow": false,
+      "titleSize": 64,
+      "title": {
+        "x": 521.96875,
+        "y": 110,
+        "width": 396.0625,
+        "height": 156.25,
+        "bottom": 266.25
+      },
+      "machine": {
+        "x": 565,
+        "y": 308.75,
+        "width": 310,
+        "height": 356.5,
+        "bottom": 665.25
+      },
+      "titleLines": [
+        {
+          "x": 500.9169921875,
+          "y": 134.49989318847656,
+          "width": 398.166015625,
+          "height": 80.96894836425781,
+          "bottom": 215.46884155273438
+        },
+        {
+          "x": 541.5567626953125,
+          "y": 212.1258544921875,
+          "width": 396.886474609375,
+          "height": 57.576416015625,
+          "bottom": 269.7022705078125
+        }
+      ],
+      "nav": {
+        "x": 596,
+        "y": 826,
+        "width": 248,
+        "height": 54,
+        "bottom": 880
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 450,
+            "y": 725.25,
+            "width": 262,
+            "height": 86.5,
+            "bottom": 811.75
+          },
+          "icon": {
+            "x": 468,
+            "y": 740.25,
+            "width": 33,
+            "height": 33,
+            "bottom": 773.25
+          },
+          "text": {
+            "x": 510,
+            "y": 745.046875,
+            "width": 70,
+            "height": 23.390625,
+            "bottom": 768.4375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 728,
+            "y": 725.25,
+            "width": 262,
+            "height": 86.5,
+            "bottom": 811.75
+          },
+          "icon": {
+            "x": 746,
+            "y": 740.25,
+            "width": 33,
+            "height": 33,
+            "bottom": 773.25
+          },
+          "text": {
+            "x": 788,
+            "y": 745.046875,
+            "width": 70,
+            "height": 23.390625,
+            "bottom": 768.4375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "overflow": false,
+      "titleSize": 64,
+      "title": {
+        "x": 521.96875,
+        "y": 143,
+        "width": 396.0625,
+        "height": 162.75,
+        "bottom": 305.75
+      },
+      "machine": {
+        "x": 550,
+        "y": 362.25,
+        "width": 340,
+        "height": 391,
+        "bottom": 753.25
+      },
+      "titleLines": [
+        {
+          "x": 500.9169921875,
+          "y": 173.99989318847656,
+          "width": 398.166015625,
+          "height": 80.96894836425781,
+          "bottom": 254.96884155273438
+        },
+        {
+          "x": 541.5567626953125,
+          "y": 251.6258544921875,
+          "width": 396.886474609375,
+          "height": 57.576416015625,
+          "bottom": 309.2022705078125
+        }
+      ],
+      "nav": {
+        "x": 596,
+        "y": 926,
+        "width": 248,
+        "height": 54,
+        "bottom": 980
+      },
+      "cards": [
+        {
+          "button": {
+            "x": 450,
+            "y": 825.25,
+            "width": 262,
+            "height": 86.5,
+            "bottom": 911.75
+          },
+          "icon": {
+            "x": 468,
+            "y": 840.25,
+            "width": 33,
+            "height": 33,
+            "bottom": 873.25
+          },
+          "text": {
+            "x": 510,
+            "y": 845.046875,
+            "width": 70,
+            "height": 23.390625,
+            "bottom": 868.4375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        },
+        {
+          "button": {
+            "x": 728,
+            "y": 825.25,
+            "width": 262,
+            "height": 86.5,
+            "bottom": 911.75
+          },
+          "icon": {
+            "x": 746,
+            "y": 840.25,
+            "width": 33,
+            "height": 33,
+            "bottom": 873.25
+          },
+          "text": {
+            "x": 788,
+            "y": 845.046875,
+            "width": 70,
+            "height": 23.390625,
+            "bottom": 868.4375
+          },
+          "textLines": 1,
+          "textOverflow": false,
+          "descriptionOverflow": false
+        }
+      ]
+    }
+  ],
+  "browserErrors": []
+}

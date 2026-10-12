@@ -1,0 +1,511 @@
+{
+  "capturedAt": "2026-10-12T03:46:09.309Z",
+  "source": "Fresh six-suite run against packaged canonical dist on Windows Chrome",
+  "allJournalContentIsIsolatedQAFixture": true,
+  "screenshots": [
+    {
+      "path": "references/screenshots/assets/01-home-unified-mobile.png",
+      "width": 390,
+      "height": 844,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/assets/02-compact-categories.png",
+      "width": 390,
+      "height": 844,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/assets/03-reading-cover.png",
+      "width": 390,
+      "height": 1088,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/assets/04-podcast-cover.png",
+      "width": 390,
+      "height": 1130,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/assets/05-sport-cover.png",
+      "width": 390,
+      "height": 1130,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/assets/06-food-cover.png",
+      "width": 390,
+      "height": 1315,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/assets/07-home-unified-desktop.png",
+      "width": 1440,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/assets/08-food-desktop.png",
+      "width": 1440,
+      "height": 1757,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/01-empty-calendar-mobile.png",
+      "width": 390,
+      "height": 1205,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/02-start-completion-action.png",
+      "width": 390,
+      "height": 856,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/03-calendar-timeline-mobile-fixture.png",
+      "width": 390,
+      "height": 1808,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/04-selected-day-text-only.png",
+      "width": 390,
+      "height": 1111,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/05-timeline-only-mobile.png",
+      "width": 390,
+      "height": 1284,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/06-calendar-1440px.png",
+      "width": 1440,
+      "height": 2019,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/06-calendar-320px.png",
+      "width": 320,
+      "height": 1754,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/06-calendar-390px.png",
+      "width": 390,
+      "height": 1808,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/06-calendar-768px.png",
+      "width": 768,
+      "height": 2019,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/07-completed-editor.png",
+      "width": 390,
+      "height": 1064,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/calendar/08-leap-month.png",
+      "width": 390,
+      "height": 1205,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/01-category-full-border.png",
+      "width": 390,
+      "height": 844,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/02-before-completion.png",
+      "width": 390,
+      "height": 856,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/03-completion-popup-1440px.png",
+      "width": 1440,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/03-completion-popup-320px.png",
+      "width": 320,
+      "height": 700,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/03-completion-popup-390px.png",
+      "width": 390,
+      "height": 844,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/04-completed-later-state.png",
+      "width": 390,
+      "height": 921,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/05-photo-upload-label.png",
+      "width": 390,
+      "height": 956,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/06-photo-upload-1440px.png",
+      "width": 1440,
+      "height": 1056,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/06-photo-upload-320px.png",
+      "width": 320,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/06-photo-upload-390px.png",
+      "width": 390,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/checkin-flow/07-red-five-petal-calendar.png",
+      "width": 390,
+      "height": 1100,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/01-missing-food-material.png",
+      "width": 390,
+      "height": 1497,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/02-simulated-food-results.png",
+      "width": 390,
+      "height": 1809,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/03-mock-post-before-confirm.png",
+      "width": 390,
+      "height": 1809,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/03b-confirm-before-switch.png",
+      "width": 390,
+      "height": 1809,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/04-adopted-food-plan.png",
+      "width": 390,
+      "height": 1582,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/05-new-method-guide.png",
+      "width": 390,
+      "height": 900,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/06-longer-alternative-needs-time-confirm.png",
+      "width": 390,
+      "height": 1764,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/07-craft-alternative-results.png",
+      "width": 390,
+      "height": 1729,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/08-new-materials-must-confirm.png",
+      "width": 390,
+      "height": 1729,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/09-new-craft-plan-1440px.png",
+      "width": 1440,
+      "height": 1750,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/09-new-craft-plan-320px.png",
+      "width": 320,
+      "height": 1450,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/09-new-craft-plan-390px.png",
+      "width": 390,
+      "height": 1475,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/demo-alternatives/10-no-example-for-full-missing-combination.png",
+      "width": 390,
+      "height": 1554,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-1440x1000.png",
+      "width": 1440,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-1440x900.png",
+      "width": 1440,
+      "height": 900,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-320x700.png",
+      "width": 320,
+      "height": 700,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-360x780.png",
+      "width": 360,
+      "height": 780,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-390x700.png",
+      "width": 390,
+      "height": 700,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-390x844.png",
+      "width": 390,
+      "height": 844,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-430x932.png",
+      "width": 430,
+      "height": 932,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/home-layout/home-768x1000.png",
+      "width": 768,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Current original system-font layout."
+    },
+    {
+      "path": "references/screenshots/paper-flow/01-home-new-copy-mobile.png",
+      "width": 390,
+      "height": 844,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/02-paper-ticket-reading.png",
+      "width": 390,
+      "height": 1088,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/03-source-link-dialog.png",
+      "width": 390,
+      "height": 1088,
+      "fixtureOnly": true,
+      "note": "QA URL is mocked and not a real note."
+    },
+    {
+      "path": "references/screenshots/paper-flow/04-play-guide-reading.png",
+      "width": 390,
+      "height": 856,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/05-play-guide-craft.png",
+      "width": 390,
+      "height": 856,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/06-notebook-empty.png",
+      "width": 390,
+      "height": 956,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/07-notebook-with-photos.png",
+      "width": 390,
+      "height": 1168,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/08-notebook-1440px.png",
+      "width": 1440,
+      "height": 1472,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/08-notebook-320px.png",
+      "width": 320,
+      "height": 1123,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/08-notebook-390px.png",
+      "width": 390,
+      "height": 1168,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/09-warm-calendar-timeline.png",
+      "width": 390,
+      "height": 1255,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/10-diary-1440px.png",
+      "width": 1440,
+      "height": 1424,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/10-diary-320px.png",
+      "width": 320,
+      "height": 1221,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/10-diary-390px.png",
+      "width": 390,
+      "height": 1255,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/11-paper-ticket-food.png",
+      "width": 390,
+      "height": 1315,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/12-ticket-1440px.png",
+      "width": 1440,
+      "height": 1757,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/12-ticket-320px.png",
+      "width": 320,
+      "height": 1301,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/12-ticket-390px.png",
+      "width": 390,
+      "height": 1315,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/13-play-1440px.png",
+      "width": 1440,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/13-play-320px.png",
+      "width": 320,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    },
+    {
+      "path": "references/screenshots/paper-flow/13-play-390px.png",
+      "width": 390,
+      "height": 1000,
+      "fixtureOnly": true,
+      "note": "Isolated test content, not a user journal or source link."
+    }
+  ]
+}

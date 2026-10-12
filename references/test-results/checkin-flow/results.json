@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": [
+    "all six category selections have one full black frame, including pixels across formerly covered top edge; selected ARIA states correct",
+    "single initial completion CTA; one animated popup on rapid click; later keeps completion, greys button and reveals recording below; labeled upload opens picker; no duplicate record or redated completion; pure five-petal red flower plus separate matching red date",
+    "popup recording, return from editor, Escape/X dismissal and reduced-motion mode all keep a consistent completed state"
+  ],
+  "browserErrors": [],
+  "fixtures": "Only isolated browser data, never the real user profile."
+}

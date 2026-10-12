@@ -1,0 +1,9 @@
+/* Optional portable rendition only. index.html retains the original system-font stack. */
+@font-face {
+  font-family: "NextNow Noto SC";
+  src: url("./NotoSansSC-VF.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+:root { font-family: "NextNow Noto SC", "Microsoft YaHei", "PingFang SC", system-ui, sans-serif; }

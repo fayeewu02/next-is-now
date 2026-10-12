@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "exact new headline; 21 distinct cover-based descriptions/preparation guides; paper ticket without old header pills; safe source-link binding, direct opening and reload persistence",
+    "left source thumbnail/right guide; single initial completion button, completion popup before recording; ruled single notebook page; one labeled photo upload, 5-photo/300-Unicode limits; reconsider, save and refresh preserve data",
+    "warm diary with uploaded thumbnail on left; no source-image substitution for no-photo entries; paper-ticket, play-guide, notebook and diary layouts verified at 320/390/1440"
+  ],
+  "browserErrors": [],
+  "sourceLimit": "Actual source URLs/transcripts not supplied. Only isolated mocked URL used to verify routing; no fabricated production links or video summaries.",
+  "fixtures": "No test journals, photos or source links are written to the real user browser or deployed data."
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "empty calendar defaults to current Shanghai month; starting alone does not mark; entering journal auto-marks with record provenance; unsaved text guard and refresh persistence work",
+    "same-day records aggregate into one flower; deleting one keeps other record; deleting last completed entry unlights date; explicit completion needs no photo or text",
+    "Shanghai midnight grouping works even in Los Angeles timezone; legacy entries preserved without inferred completion; thumbnail only for recorded photo; date filter, calendar/list toggle and 320/390/768/1440 layouts verified",
+    "Monday-first month grid, leap day, December/January rollover, today navigation and editing without redating verified"
+  ],
+  "browserErrors": [],
+  "fixtures": "Only isolated QA browser storage. No example journals are shipped or written to the real user browser."
+}
