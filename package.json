@@ -1,0 +1,15 @@
+{
+  "name": "next-is-now-cowork-reproduction",
+  "version": "6.0.0",
+  "private": true,
+  "description": "下次就是现在：可运行的 v6 原样代码、复刻资料和跨环境验收工具",
+  "type": "module",
+  "engines": { "node": ">=20.9" },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "verify": "node tools/verify-package.mjs",
+    "qa": "node tests/qa.mjs",
+    "export-assets": "node tools/export-assets.mjs"
+  },
+  "devDependencies": { "playwright": "1.62.1", "sharp": "0.35.5" }
+}
